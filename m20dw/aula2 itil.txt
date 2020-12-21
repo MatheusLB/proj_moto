@@ -1,0 +1,53 @@
+### GERENCIAMENTO DISPONIBILIDADE
+
+
+Contudo, temos de trabalhar com a condição de que atingir 100% de disponibilidade não é algo possível.
+
+Para termos boa disponibilidade nos serviços, precisamos planejar e gerenciar. 
+Desse modo, comprar tecnologia de ponta não é 
+sinônimo de alta disponibilidade.
+Por exemplo, não adianta ter o melhor servidor se não há pessoal disponível para fazer a sua manutenção.
+
+Um Acordo de Nível de Serviço (ANS) ou Service Level Agreement (SLA) é um acordo firmado entre a área de TI e seu cliente 
+interno. Tal acordo descreve o serviço de TI, as metas de nível de serviço, além dos papéis e das responsabilidades das 
+partes envolvidas no acordo.
+
+Outras áreas da empresa também podem beneficiar-se do serviço acordado.
+
+
+Disponibilidade
+
+A disponibilidade se refere à habilidade de um serviço, componente ou item de configuração em executar a função acordada, quando requerida.
+
+
+
+Confiabilidade
+
+A confiabilidade mede durante quanto tempo um serviço, componente ou item de configuração pode executar sua função acordada sem interrupção.
+
+Depende muito da qualidade do hardware ou software.
+
+
+
+Sustentabilidade
+
+A sustentabilidade mede a rapidez com que um serviço, componente ou item de configuração é restaurado para o estado normal após uma falha. Para se obter sustentabilidade, é necessário que a equipe de TI esteja preparada para suportar o serviço.
+
+Por exemplo, não adianta trocar a plataforma para Linux se ninguém na equipe domina esse tipo de tecnologia.
+
+
+
+Funcionalidade
+
+A funcionalidade é a habilidade que um fornecedor externo tem para atender os termos do contrato.
+
+Frequentemente, o contrato irá incluir níveis acordados de disponibilidade, confiabilidade e sustentabilidade para suportar um serviço ou um componente de entrega.
+
+Por exemplo, decide-se adotar um software para executar determinada atividade. Se o software não tiver um contrato de suporte com o fabricante, a TI não terá habilidade de obter o serviço.
+
+
+GERENCIAMENTO CONTINUIDADE
+
+O gerenciamento da continuidade de serviço prepara o provedor de serviço para a pior situação possível.
+
+Para isso, o gerenciamento da continuidade investiga, desenvolve e implementa opções de recuperação de serviços que serão usadas quando uma interrupção grave acontecer no serviço
